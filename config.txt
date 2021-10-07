@@ -1,0 +1,42 @@
+mdsn 0.99
+rkon 709
+kusk 0.94
+mmas 18.64
+pot 63.8
+ppln 254
+tpl 330
+row 0.63
+ppkr 45.9
+tpkr 203.8
+zkr 0.28
+kp -0.0000168 0.0078321 -0.9342149 68.6736888
+kint 4.2
+tust': 293
+deprd': 50
+nsk': 7
+ka': 300.28
+kb': 0.29981
+qn': 150
+qz 2338000
+pbd 10
+lsk 3300
+dnkt 77
+nkust 6
+lsh 1200
+diamsh 150
+lkoll 11000
+diamkoll 300
+keks 0.95
+ksep 0.98
+pesgmin 10
+dpukpg 10
+start_year 2021
+end_year 2100
+
+year 2021 nsk 2 q_max 2700000
+year 2022 nsk 5 q_max 2700000
+year 2023 nsk 7 q_max 2700000
+year 2024 nsk 7 q_max 2700000
+year 2025 nsk 10 q_max 2700000
+year 2026 nsk 10 q_max 2700000
+year 2098 nsk 110 q_max 27000
