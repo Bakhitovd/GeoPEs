@@ -53,6 +53,8 @@ def main_func(con):
             vmin = row_decl['vmin']
         if vz < vmin:
             break
+    df[['year', 'nsk']] = df[['year', 'nsk']].astype(int)
+    df[['qn', 'depr', 'ppl', 'qg_year', 'qg_nak_geo', 'pz', 'pb', 'puk']] = df[['qn', 'depr', 'ppl', 'qg_year', 'qg_nak_geo', 'pz', 'pb', 'puk']].astype(float)
     return df
 
 

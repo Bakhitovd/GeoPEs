@@ -39,6 +39,10 @@ param = {
     'pesgmin': 10,  # Давление входа в ЕСГ, ата
     'dpukpg': 10,  # Потери давление на УКПГ, ата
 
-    'start_year' : 2000,
-    'end_year' : 2050
+    'start_year': 2000,
+    'end_year': 2050
 }
+default_text = """year 2021 nsk 2 q_max 2700000
+year 2022 nsk 5 q_max 2700000 """
+
+
